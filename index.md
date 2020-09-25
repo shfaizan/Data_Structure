@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/shfaizan/Data_Structure/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shfaizan/Data_Structure/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Data_Structure
+## CPP
+<h3>Linear Data structure </h3>
+<ol>
+<li><a href="https://github.com/shfaizan/Data_Structure/blob/master/CPP/stack.cpp">Stack</a></li>
+<li><a href="https://github.com/shfaizan/Data_Structure/blob/master/CPP/queue.cpp">Queue</a></li>
+ <li><a href="https://github.com/shfaizan/Data_Structure/blob/master/CPP/Circular_Queue.cpp">Circular Queue</a></li>
+<li><a href="https://github.com/shfaizan/Data_Structure/blob/master/CPP/LinkedList.cpp">LinkedList</a></li>
+ <li><a href="https://github.com/shfaizan/Data_Structure/blob/master/CPP/doubly_linkedlist.cpp">Doubly linledlist</a></li>
+ <li><a href="https://github.com/shfaizan/Data_Structure/blob/master/CPP/circular_linkedlist.cpp">Circular Linkedlist</a></li>
+ <li><a href="https://github.com/shfaizan/Data_Structure/blob/master/CPP/linklist%20stack.cpp">Stack-linkedlist representation</a></li> 
+ <li><a href="https://github.com/shfaizan/Data_Structure/blob/master/CPP/queue%20linkedlist.cpp">Queue-Linkedlist representation</a></li> 
+</ol>
+<h3>Non-Linear Data structure </h3>
+<ol>
+ <li><a href="">Tree</a></li>
+       <ul><a href="">Insert</a></ul>
+       <ul><a href="">Delete</a></ul>
+       <ul><a href="">Search</a></ul>
+       <ul><a href="">Traversal</a></ul>
+ <li><a href="">Graph</a></li>
+ </ol>
