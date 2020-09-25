@@ -1,6 +1,6 @@
 # Data_Structure
 ## CPP
-<h1>Linear Data structure </h1>
+<h3>Linear Data structure </h3>
 <ol>
 <li><a href="https://github.com/shfaizan/Data_Structure/blob/master/CPP/stack.cpp">Stack</a></li>
 <li><a href="https://github.com/shfaizan/Data_Structure/blob/master/CPP/queue.cpp">Queue</a></li>
@@ -11,7 +11,7 @@
  <li><a href="https://github.com/shfaizan/Data_Structure/blob/master/CPP/linklist%20stack.cpp">Stack-linkedlist representation</a></li> 
  <li><a href="https://github.com/shfaizan/Data_Structure/blob/master/CPP/queue%20linkedlist.cpp">Queue-Linkedlist representation</a></li> 
 </ol>
-<h1>Non-Linear Data structure </h1>
+<h3>Non-Linear Data structure </h3>
 <ol>
  <li><a href="">Tree</a></li>
        <ul><a href="">Insert</a></ul>
