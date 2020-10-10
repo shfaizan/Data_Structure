@@ -14,6 +14,7 @@ class stack
         if(top>=4)
         {
             cout<<"stack overflow";
+
         }
         else{
                 cout<<"Enter elements:";
@@ -28,7 +29,7 @@ class stack
                 cout<<"stack underflow";
             }
             else{
-                cout<<"element has been deleted"<<a[top--];
+                cout<<"element "<<a[top--]<<" has been deleted";
             }
         }
     void display()
@@ -44,7 +45,7 @@ class stack
         int a;
         while(1)
         {
-            cout<<"\n1.push\n2.pop\n3.display\n4.exit";
+            cout<<"1.push\n2.pop\n3.display\n4.exit\n";
             cin>>a;
         switch(a)
         {
